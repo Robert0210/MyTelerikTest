@@ -1,0 +1,7 @@
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\bin\Debug\AllocateArray.exe
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\bin\Debug\AllocateArray.pdb
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\obj\Debug\AllocateArray.csprojAssemblyReference.cache
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\obj\Debug\AllocateArray.csproj.CoreCompileInputs.cache
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\obj\Debug\AllocateArray.exe
+C:\Users\rstoi\source\repos\Arrays\AllocateArray\obj\Debug\AllocateArray.pdb
